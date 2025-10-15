@@ -63,10 +63,10 @@
 			fileSystemSynchronizedGroups = (
 				016A185F2E9E2E8000D62C5C /* Testovoe */,
 			);
-			name = Testovoe;
+			name = AchieveGoals;
 			packageProductDependencies = (
 			);
-			productName = Testovoe;
+			productName = AchieveGoals;
 			productReference = 016A185D2E9E2E8000D62C5C /* Testovoe.app */;
 			productType = "com.apple.product-type.application";
 		};
