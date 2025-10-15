@@ -63,7 +63,7 @@
 			fileSystemSynchronizedGroups = (
 				016A185F2E9E2E8000D62C5C /* Testovoe */,
 			);
-			name = AchieveGoals;
+			name = Testovoe;
 			packageProductDependencies = (
 			);
 			productName = AchieveGoals;
